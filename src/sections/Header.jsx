@@ -1,6 +1,6 @@
 import LogoCompany from "@assets/svg/logo.svg"
 import HeaderButtons from "@components/Buttons/HeaderButtons"
-import Menu from "@assets/svg/menu-burger.svg"
+import Menu from "@assets/svg/menu.svg"
 
 export default function Header() {
   return (
